@@ -31,7 +31,7 @@
 ## 📋 Version Bullet Points (pour section Projets)
 
 ### Français
-**Architecture Microservices avec Spring Boot & Kubernetes** | [Lien GitHub]
+**Architecture Microservices avec Spring Boot & Kubernetes** | [https://github.com/OumaimaLg/microservices]
 - Développé 7 microservices (Accounts, Cards, Loans, Gateway, Config Server, Eureka) avec Spring Boot 3.4
 - Implémenté patterns microservices: Service Discovery, API Gateway, Circuit Breaker, Config centralisée
 - Architecture event-driven avec RabbitMQ et Apache Kafka pour communication asynchrone
@@ -41,7 +41,7 @@
 - Stack technique: Java 21, Spring Cloud, MySQL, Redis, Istio Service Mesh
 
 ### English
-**Microservices Architecture with Spring Boot & Kubernetes** | [GitHub Link]
+**Microservices Architecture with Spring Boot & Kubernetes** | [https://github.com/OumaimaLg/microservices]
 - Developed 7 microservices (Accounts, Cards, Loans, Gateway, Config Server, Eureka) with Spring Boot 3.4
 - Implemented microservices patterns: Service Discovery, API Gateway, Circuit Breaker, Centralized Config
 - Event-driven architecture with RabbitMQ and Apache Kafka for async communication
